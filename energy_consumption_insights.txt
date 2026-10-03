@@ -1,0 +1,52 @@
+SMART HOME ELECTRICITY CONSUMPTION PREDICTION SYSTEM - ENERGY ANALYSIS INSIGHTS
+================================================================================
+
+Total Days Analyzed: 730
+Analysis Period: 2022-01-01 to 2023-12-31
+
+
+Key Consumption Metrics:
+--------------------------------------------------------------------------------
+  Average Daily Consumption: 21.62 kWh
+  Minimum Daily Consumption: 5.00 kWh
+  Maximum Daily Consumption: 55.00 kWh
+  Standard Deviation: 12.23 kWh
+  Total Annual Consumption: 15785.93 kWh
+
+
+Seasonal Analysis:
+--------------------------------------------------------------------------------
+  January: Avg 25.48 kWh/day
+  February: Avg 32.98 kWh/day
+  March: Avg 36.56 kWh/day
+  April: Avg 36.43 kWh/day
+  May: Avg 33.36 kWh/day
+  June: Avg 26.66 kWh/day
+  July: Avg 18.05 kWh/day
+  August: Avg 10.36 kWh/day
+  September: Avg 6.55 kWh/day
+  October: Avg 6.71 kWh/day
+  November: Avg 9.81 kWh/day
+  December: Avg 17.41 kWh/day
+
+
+Occupancy Impact:
+--------------------------------------------------------------------------------
+  Occupancy Level 1: Avg 21.72 kWh/day
+  Occupancy Level 2: Avg 21.72 kWh/day
+  Occupancy Level 3: Avg 21.47 kWh/day
+  Occupancy Level 4: Avg 21.27 kWh/day
+
+
+Weekday vs Weekend:
+--------------------------------------------------------------------------------
+  Weekday Average: 20.37 kWh/day
+  Weekend Average: 24.72 kWh/day
+  Difference: 4.35 kWh/day
+
+
+Temperature Correlation:
+--------------------------------------------------------------------------------
+  Correlation Coefficient: 0.8379
+  Average Temperature: 19.93°C
+  Temperature Range: -10.90°C to 49.36°C
